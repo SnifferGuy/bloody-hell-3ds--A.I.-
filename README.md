@@ -2,6 +2,7 @@
 # NOTE: THIS GAME IS ENTIRELY MADE WITH AI WITH THE USER PROMPTING THE THINGS THAT NEED TO BE FIX OR ADDED.
 
 Build the unofficial Old Nintendo 3DS fan port on Windows with your own copy of Bloody Hell. The ZIP includes the selected port source, build scripts, and instructions. The original game assets are read locally during the build.
+-I'm stopping this..... It's just not good to use the project entirely with A.I (this is just trying the free subscription fee I got on codex)
 
 [Download Bloody Hell v0.5 Final (.3dsx)](https://github.com/SnifferGuy/bloody-hell-3ds-build-kit/releases/download/v0.5/Bloody.Hell.v0.5.Final.3dsx)
 
